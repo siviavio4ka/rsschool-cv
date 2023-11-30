@@ -20,9 +20,18 @@ I am a 3rd year student of Francisk Sckorina Gomel State University, Faculty of 
 * Tools: VS Code, Rider, GitHub, Docker, Postman.
 * Storages: MySQL, PostgreSQL.
 
-### Code Example
+### CODE EXAMPLE:
 ```
 function multiply(a, b){
   return a * b;
 }
 ```
+
+### EXPERIENCE:
+
+### EDUCATION:
+* 2021-2025: Francisk Sckorina Gomel State University, Bachelor of IT Engineering(Automated information processing systems).
+
+### CERTIFICATES:
+* [C#/.NET Essentials](https://www.hackerrank.com/certificates/cd1a1afd154c)
+* [SQL Essentials](https://www.hackerrank.com/certificates/827ef5458bb0)
