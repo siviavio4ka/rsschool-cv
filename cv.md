@@ -6,5 +6,8 @@
 E-mail: [siviavio4ka@gmail.com](siviavio4ka@gmail.com)\
 GitHub: [siviavio4ka](https://github.com/siviavio4ka)\
 LinkedIn: [Vyacheslav Nevzorov](https://www.linkedin.com/in/vyacheslav-nevzorov/)\
-Telegram: [siviavio4ka](https://t.me/siviavio4ka)
+Telegram: [siviavio4ka](https://t.me/siviavio4ka)\
+Location: Gomel, Belarus.
 
+### ABOUT ME:
+I am a 3rd year student of Francisk Sckorina Gomel State University, Faculty of Physics and Information Technologies. I value creative approach to problem solving and ability to work in a team. I consider myself a responsible, purposeful and fast learner, ready for constant improvement and growth. In parallel with my higher education, I am learning the .NET platform. I consolidate my knowledge by developing pet projects.
