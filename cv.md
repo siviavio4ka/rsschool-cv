@@ -11,3 +11,11 @@ Location: Gomel, Belarus.
 
 ### ABOUT ME:
 I am a 3rd year student of Francisk Sckorina Gomel State University, Faculty of Physics and Information Technologies. I value creative approach to problem solving and ability to work in a team. I consider myself a responsible, purposeful and fast learner, ready for constant improvement and growth. In parallel with my higher education, I am learning the .NET platform. I consolidate my knowledge by developing pet projects.
+
+### SKILLS:
+* Languages: C#, HTML.
+* Frameworks: ASP.NET Core MVC, ASP.NET Core Web Api.
+* ORMs: Entity Framework Core, Dapper.
+* Libraries/API: AutoMapper, MediatR.
+* Tools: VS Code, Rider, GitHub, Docker, Postman.
+* Storages: MySQL, PostgreSQL.
