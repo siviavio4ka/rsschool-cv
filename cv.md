@@ -19,3 +19,10 @@ I am a 3rd year student of Francisk Sckorina Gomel State University, Faculty of 
 * Libraries/API: AutoMapper, MediatR.
 * Tools: VS Code, Rider, GitHub, Docker, Postman.
 * Storages: MySQL, PostgreSQL.
+
+### Code Example
+```
+function multiply(a, b){
+  return a * b;
+}
+```
