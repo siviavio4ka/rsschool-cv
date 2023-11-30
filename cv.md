@@ -35,3 +35,7 @@ function multiply(a, b){
 ### CERTIFICATES:
 * [C#/.NET Essentials](https://www.hackerrank.com/certificates/cd1a1afd154c)
 * [SQL Essentials](https://www.hackerrank.com/certificates/827ef5458bb0)
+
+### LANGUAGES:
+* English - A2.
+* Russian - native.
